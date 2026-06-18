@@ -1,0 +1,42 @@
+{
+    "starting_balance": 100000.0,
+    "cash": 14712.259999999998,
+    "realized_pnl": 0.0,
+    "trades_won": 0,
+    "trades_lost": 0,
+    "active_positions": {
+        "L&T (Main)": {
+            "entry_date": "2026-06-18 16:17",
+            "entry_price": 4190.0,
+            "highest": 4190.0,
+            "stop": 3561.5,
+            "shares": 5,
+            "capital_deployed": 20981.425
+        },
+        "Thermax (Ancillary)": {
+            "entry_date": "2026-06-18 16:17",
+            "entry_price": 4696.3,
+            "highest": 4696.3,
+            "stop": 3991.855,
+            "shares": 5,
+            "capital_deployed": 23516.72225
+        },
+        "Apar Ind (Ancillary)": {
+            "entry_date": "2026-06-18 16:17",
+            "entry_price": 15812.0,
+            "highest": 15812.0,
+            "stop": 13440.199999999999,
+            "shares": 1,
+            "capital_deployed": 15835.718
+        },
+        "MTAR Tech (Ancillary)": {
+            "entry_date": "2026-06-18 16:17",
+            "entry_price": 8305.5,
+            "highest": 8305.5,
+            "stop": 7059.675,
+            "shares": 3,
+            "capital_deployed": 24953.87475
+        }
+    },
+    "closed_trades": []
+}
