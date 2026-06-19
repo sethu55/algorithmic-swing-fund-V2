@@ -8,7 +8,7 @@
         "L&T (Main)": {
             "entry_date": "2026-06-18 16:17",
             "entry_price": 4190.0,
-            "highest": 4198.3,
+            "highest": 4209.4,
             "stop": 3561.5,
             "shares": 5,
             "capital_deployed": 20981.425
@@ -16,7 +16,7 @@
         "Apar Ind (Ancillary)": {
             "entry_date": "2026-06-18 16:17",
             "entry_price": 15812.0,
-            "highest": 15975.0,
+            "highest": 16280.0,
             "stop": 13440.199999999999,
             "shares": 1,
             "capital_deployed": 15835.718
@@ -24,7 +24,7 @@
         "MTAR Tech (Ancillary)": {
             "entry_date": "2026-06-18 16:17",
             "entry_price": 8305.5,
-            "highest": 8341.5,
+            "highest": 8374.5,
             "stop": 7059.675,
             "shares": 3,
             "capital_deployed": 24953.87475
@@ -32,7 +32,7 @@
         "VA Tech Wabag (Main)": {
             "entry_date": "2026-06-19 08:55",
             "entry_price": 1934.5,
-            "highest": 1945.0,
+            "highest": 1983.6,
             "stop": 1644.325,
             "shares": 12,
             "capital_deployed": 23248.821
