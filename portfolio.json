@@ -1,30 +1,22 @@
 {
     "starting_balance": 100000.0,
-    "cash": 14712.259999999998,
-    "realized_pnl": 0.0,
+    "cash": 14904.225000000002,
+    "realized_pnl": -75.93624999999884,
     "trades_won": 0,
-    "trades_lost": 0,
+    "trades_lost": 1,
     "active_positions": {
         "L&T (Main)": {
             "entry_date": "2026-06-18 16:17",
             "entry_price": 4190.0,
-            "highest": 4190.0,
+            "highest": 4197.4,
             "stop": 3561.5,
             "shares": 5,
             "capital_deployed": 20981.425
         },
-        "Thermax (Ancillary)": {
-            "entry_date": "2026-06-18 16:17",
-            "entry_price": 4696.3,
-            "highest": 4696.3,
-            "stop": 3991.855,
-            "shares": 5,
-            "capital_deployed": 23516.72225
-        },
         "Apar Ind (Ancillary)": {
             "entry_date": "2026-06-18 16:17",
             "entry_price": 15812.0,
-            "highest": 15812.0,
+            "highest": 15937.0,
             "stop": 13440.199999999999,
             "shares": 1,
             "capital_deployed": 15835.718
@@ -36,7 +28,26 @@
             "stop": 7059.675,
             "shares": 3,
             "capital_deployed": 24953.87475
+        },
+        "VA Tech Wabag (Main)": {
+            "entry_date": "2026-06-19 08:55",
+            "entry_price": 1934.5,
+            "highest": 1934.5,
+            "stop": 1644.325,
+            "shares": 12,
+            "capital_deployed": 23248.821
         }
     },
-    "closed_trades": []
+    "closed_trades": [
+        {
+            "comp": "Thermax (Ancillary)",
+            "entry_date": "2026-06-18 16:17",
+            "exit_date": "2026-06-19 08:55",
+            "entry_price": 4696.3,
+            "exit_price": 4695.2,
+            "shares_sold": 5,
+            "pnl": -75.93624999999884,
+            "reason": "Structural Trend Broken (Below 50 DMA)"
+        }
+    ]
 }
