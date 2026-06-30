@@ -8,7 +8,7 @@
 | Metric | Value |
 | :--- | :--- |
 | **Starting Balance** | INR 100,000.00 |
-| **Current Portfolio Value** | **INR 98,462.73** |
+| **Current Portfolio Value** | **INR 98,331.62** |
 | **Available Cash** | INR 14,904.23 |
 | **Total Realized P&L** | INR -75.94 (-0.08%) |
 | **Estimated STCG Tax** | INR 0.00 |
@@ -17,10 +17,10 @@
 ## Active Positions
 | Date | Company | Shares | Entry Price | Trailing Stop | Current Price | Unrealized P&L |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| 2026-06-18 16:17 | **L&T (Main)** | 5 | INR 4190.00 | INR 3561.50 | INR 4160.50 | -0.70% (INR -147.50) |
-| 2026-06-18 16:17 | **Apar Ind (Ancillary)** | 1 | INR 15812.00 | INR 13440.20 | INR 15842.00 | 0.19% (INR 30.00) |
-| 2026-06-18 16:17 | **MTAR Tech (Ancillary)** | 3 | INR 8305.50 | INR 7059.68 | INR 7630.00 | -8.13% (INR -2,026.50) |
-| 2026-06-19 08:55 | **VA Tech Wabag (Main)** | 12 | INR 1934.50 | INR 1691.20 | INR 2002.00 | 3.49% (INR 810.00) |
+| 2026-06-18 16:17 | **L&T (Main)** | 5 | INR 4190.00 | INR 3561.50 | INR 4154.50 | -0.85% (INR -177.50) |
+| 2026-06-18 16:17 | **Apar Ind (Ancillary)** | 1 | INR 15812.00 | INR 13440.20 | INR 15887.00 | 0.47% (INR 75.00) |
+| 2026-06-18 16:17 | **MTAR Tech (Ancillary)** | 3 | INR 8305.50 | INR 7059.68 | INR 7592.50 | -8.58% (INR -2,139.00) |
+| 2026-06-19 08:55 | **VA Tech Wabag (Main)** | 12 | INR 1934.50 | INR 1691.20 | INR 1999.20 | 3.34% (INR 776.40) |
 
 ## Closed Trade History
 | Entry | Exit | Company | Entry Price | Exit Price | Shares Sold | Realized P&L | Reason |
