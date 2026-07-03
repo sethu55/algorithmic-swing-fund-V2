@@ -1,9 +1,9 @@
 {
     "starting_balance": 100000.0,
-    "cash": 14904.225000000002,
-    "realized_pnl": -75.93624999999884,
+    "cash": 11727.787750000007,
+    "realized_pnl": -3969.9482499999976,
     "trades_won": 0,
-    "trades_lost": 1,
+    "trades_lost": 2,
     "active_positions": {
         "L&T (Main)": {
             "entry_date": "2026-06-18 16:17",
@@ -21,14 +21,6 @@
             "shares": 1,
             "capital_deployed": 15835.718
         },
-        "MTAR Tech (Ancillary)": {
-            "entry_date": "2026-06-18 16:17",
-            "entry_price": 8305.5,
-            "highest": 8374.5,
-            "stop": 7059.675,
-            "shares": 3,
-            "capital_deployed": 24953.87475
-        },
         "VA Tech Wabag (Main)": {
             "entry_date": "2026-06-19 08:55",
             "entry_price": 1934.5,
@@ -36,6 +28,14 @@
             "stop": 1752.2400000000002,
             "shares": 12,
             "capital_deployed": 23248.821
+        },
+        "Godrej Ind (Main)": {
+            "entry_date": "2026-07-03 06:50",
+            "entry_price": 1210.0,
+            "highest": 1210.0,
+            "stop": 1028.5,
+            "shares": 20,
+            "capital_deployed": 24236.3
         }
     },
     "closed_trades": [
@@ -48,6 +48,16 @@
             "shares_sold": 5,
             "pnl": -75.93624999999884,
             "reason": "Structural Trend Broken (Below 50 DMA)"
+        },
+        {
+            "comp": "MTAR Tech (Ancillary)",
+            "entry_date": "2026-06-18 16:17",
+            "exit_date": "2026-07-03 06:50",
+            "entry_price": 8305.5,
+            "exit_price": 7030.5,
+            "shares_sold": 3,
+            "pnl": -3894.011999999999,
+            "reason": "Trailing Stop Triggered"
         }
     ]
 }
