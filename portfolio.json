@@ -1,18 +1,10 @@
 {
     "starting_balance": 100000.0,
-    "cash": 11727.787750000007,
-    "realized_pnl": -3969.9482499999976,
+    "cash": 7718.749650000009,
+    "realized_pnl": -4740.235499999995,
     "trades_won": 0,
-    "trades_lost": 2,
+    "trades_lost": 3,
     "active_positions": {
-        "L&T (Main)": {
-            "entry_date": "2026-06-18 16:17",
-            "entry_price": 4190.0,
-            "highest": 4260.0,
-            "stop": 3561.5,
-            "shares": 5,
-            "capital_deployed": 20981.425
-        },
         "Apar Ind (Ancillary)": {
             "entry_date": "2026-06-18 16:17",
             "entry_price": 15812.0,
@@ -36,6 +28,14 @@
             "stop": 1028.5,
             "shares": 20,
             "capital_deployed": 24236.3
+        },
+        "KSB Ltd (Ancillary)": {
+            "entry_date": "2026-07-06 08:06",
+            "entry_price": 930.15,
+            "highest": 930.15,
+            "stop": 790.6274999999999,
+            "shares": 26,
+            "capital_deployed": 24220.17585
         }
     },
     "closed_trades": [
@@ -58,6 +58,16 @@
             "shares_sold": 3,
             "pnl": -3894.011999999999,
             "reason": "Trailing Stop Triggered"
+        },
+        {
+            "comp": "L&T (Main)",
+            "entry_date": "2026-06-18 16:17",
+            "exit_date": "2026-07-06 08:06",
+            "entry_price": 4190.0,
+            "exit_price": 4048.3,
+            "shares_sold": 5,
+            "pnl": -770.2872499999976,
+            "reason": "Structural Trend Broken (Below 50 DMA)"
         }
     ]
 }
