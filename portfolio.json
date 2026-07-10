@@ -16,23 +16,23 @@
         "VA Tech Wabag (Main)": {
             "entry_date": "2026-06-19 08:55",
             "entry_price": 1934.5,
-            "highest": 2203.2,
-            "stop": 1762.56,
+            "highest": 2225.3,
+            "stop": 1780.2400000000002,
             "shares": 12,
             "capital_deployed": 23248.821
         },
         "Godrej Ind (Main)": {
             "entry_date": "2026-07-03 06:50",
             "entry_price": 1210.0,
-            "highest": 1225.6,
-            "stop": 1028.5,
+            "highest": 1291.8,
+            "stop": 1033.44,
             "shares": 20,
             "capital_deployed": 24236.3
         },
         "KSB Ltd (Ancillary)": {
             "entry_date": "2026-07-06 08:06",
             "entry_price": 930.15,
-            "highest": 934.7,
+            "highest": 938.6,
             "stop": 790.6274999999999,
             "shares": 26,
             "capital_deployed": 24220.17585
