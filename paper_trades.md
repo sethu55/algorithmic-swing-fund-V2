@@ -8,7 +8,7 @@
 | Metric | Value |
 | :--- | :--- |
 | **Starting Balance** | INR 100,000.00 |
-| **Current Portfolio Value** | **INR 98,761.95** |
+| **Current Portfolio Value** | **INR 98,678.05** |
 | **Available Cash** | INR 7,718.75 |
 | **Total Realized P&L** | INR -4,740.24 (-4.74%) |
 | **Estimated STCG Tax** | INR 0.00 |
@@ -17,10 +17,10 @@
 ## Active Positions
 | Date | Company | Shares | Entry Price | Trailing Stop | Current Price | Unrealized P&L |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| 2026-06-18 16:17 | **Apar Ind (Ancillary)** | 1 | INR 15812.00 | INR 13440.20 | INR 14100.00 | -10.83% (INR -1,712.00) |
-| 2026-06-19 08:55 | **VA Tech Wabag (Main)** | 12 | INR 1934.50 | INR 1780.24 | INR 2225.30 | 15.03% (INR 3,489.60) |
-| 2026-07-03 06:50 | **Godrej Ind (Main)** | 20 | INR 1210.00 | INR 1033.44 | INR 1291.80 | 6.76% (INR 1,636.00) |
-| 2026-07-06 08:06 | **KSB Ltd (Ancillary)** | 26 | INR 930.15 | INR 790.63 | INR 938.60 | 0.91% (INR 219.70) |
+| 2026-06-18 16:17 | **Apar Ind (Ancillary)** | 1 | INR 15812.00 | INR 13440.20 | INR 14081.00 | -10.95% (INR -1,731.00) |
+| 2026-06-19 08:55 | **VA Tech Wabag (Main)** | 12 | INR 1934.50 | INR 1787.36 | INR 2234.20 | 15.49% (INR 3,596.40) |
+| 2026-07-03 06:50 | **Godrej Ind (Main)** | 20 | INR 1210.00 | INR 1033.44 | INR 1283.80 | 6.10% (INR 1,476.00) |
+| 2026-07-06 08:06 | **KSB Ltd (Ancillary)** | 26 | INR 930.15 | INR 790.63 | INR 938.15 | 0.86% (INR 208.00) |
 
 ## Closed Trade History
 | Entry | Exit | Company | Entry Price | Exit Price | Shares Sold | Realized P&L | Reason |
