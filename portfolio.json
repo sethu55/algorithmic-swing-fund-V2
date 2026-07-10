@@ -24,15 +24,15 @@
         "Godrej Ind (Main)": {
             "entry_date": "2026-07-03 06:50",
             "entry_price": 1210.0,
-            "highest": 1291.8,
-            "stop": 1033.44,
+            "highest": 1417.7,
+            "stop": 1134.16,
             "shares": 20,
             "capital_deployed": 24236.3
         },
         "KSB Ltd (Ancillary)": {
             "entry_date": "2026-07-06 08:06",
             "entry_price": 930.15,
-            "highest": 938.6,
+            "highest": 940.25,
             "stop": 790.6274999999999,
             "shares": 26,
             "capital_deployed": 24220.17585
