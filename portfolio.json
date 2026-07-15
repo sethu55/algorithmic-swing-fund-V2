@@ -1,9 +1,9 @@
 {
     "starting_balance": 100000.0,
-    "cash": 7718.749650000009,
-    "realized_pnl": -4740.235499999995,
+    "cash": 13315.089650000009,
+    "realized_pnl": -4946.486349999996,
     "trades_won": 0,
-    "trades_lost": 3,
+    "trades_lost": 4,
     "active_positions": {
         "Apar Ind (Ancillary)": {
             "entry_date": "2026-06-18 16:17",
@@ -29,13 +29,13 @@
             "shares": 20,
             "capital_deployed": 24236.3
         },
-        "KSB Ltd (Ancillary)": {
-            "entry_date": "2026-07-06 08:06",
-            "entry_price": 930.15,
-            "highest": 948.65,
-            "stop": 790.6274999999999,
-            "shares": 26,
-            "capital_deployed": 24220.17585
+        "Solar Ind (Ancillary)": {
+            "entry_date": "2026-07-15 08:35",
+            "entry_price": 18390.0,
+            "highest": 18390.0,
+            "stop": 15631.5,
+            "shares": 1,
+            "capital_deployed": 18417.585
         }
     },
     "closed_trades": [
@@ -67,6 +67,16 @@
             "exit_price": 4048.3,
             "shares_sold": 5,
             "pnl": -770.2872499999976,
+            "reason": "Structural Trend Broken (Below 50 DMA)"
+        },
+        {
+            "comp": "KSB Ltd (Ancillary)",
+            "entry_date": "2026-07-06 08:06",
+            "exit_date": "2026-07-15 08:35",
+            "entry_price": 930.15,
+            "exit_price": 925.0,
+            "shares_sold": 26,
+            "pnl": -206.25085000000036,
             "reason": "Structural Trend Broken (Below 50 DMA)"
         }
     ]
