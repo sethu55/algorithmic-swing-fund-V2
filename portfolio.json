@@ -24,7 +24,7 @@
         "Solar Ind (Ancillary)": {
             "entry_date": "2026-07-15 08:35",
             "entry_price": 18390.0,
-            "highest": 18850.0,
+            "highest": 18877.0,
             "stop": 15631.5,
             "shares": 1,
             "capital_deployed": 18417.585
@@ -32,7 +32,7 @@
         "BHEL (Main)": {
             "entry_date": "2026-07-20 06:35",
             "entry_price": 415.5,
-            "highest": 415.5,
+            "highest": 417.9,
             "stop": 353.175,
             "shares": 60,
             "capital_deployed": 24967.395
