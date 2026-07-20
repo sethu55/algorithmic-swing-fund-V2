@@ -1,8 +1,8 @@
 {
     "starting_balance": 100000.0,
-    "cash": 13315.089650000009,
-    "realized_pnl": -4946.486349999996,
-    "trades_won": 0,
+    "cash": 13143.245450000013,
+    "realized_pnl": -3399.756549999991,
+    "trades_won": 1,
     "trades_lost": 4,
     "active_positions": {
         "Apar Ind (Ancillary)": {
@@ -12,14 +12,6 @@
             "stop": 13440.199999999999,
             "shares": 1,
             "capital_deployed": 15835.718
-        },
-        "VA Tech Wabag (Main)": {
-            "entry_date": "2026-06-19 08:55",
-            "entry_price": 1934.5,
-            "highest": 2234.2,
-            "stop": 1787.36,
-            "shares": 12,
-            "capital_deployed": 23248.821
         },
         "Godrej Ind (Main)": {
             "entry_date": "2026-07-03 06:50",
@@ -32,10 +24,18 @@
         "Solar Ind (Ancillary)": {
             "entry_date": "2026-07-15 08:35",
             "entry_price": 18390.0,
-            "highest": 18467.0,
+            "highest": 18850.0,
             "stop": 15631.5,
             "shares": 1,
             "capital_deployed": 18417.585
+        },
+        "BHEL (Main)": {
+            "entry_date": "2026-07-20 06:35",
+            "entry_price": 415.5,
+            "highest": 415.5,
+            "stop": 353.175,
+            "shares": 60,
+            "capital_deployed": 24967.395
         }
     },
     "closed_trades": [
@@ -77,6 +77,16 @@
             "exit_price": 925.0,
             "shares_sold": 26,
             "pnl": -206.25085000000036,
+            "reason": "Structural Trend Broken (Below 50 DMA)"
+        },
+        {
+            "comp": "VA Tech Wabag (Main)",
+            "entry_date": "2026-06-19 08:55",
+            "exit_date": "2026-07-20 06:35",
+            "entry_price": 1934.5,
+            "exit_price": 2069.4,
+            "shares_sold": 12,
+            "pnl": 1546.7298000000046,
             "reason": "Structural Trend Broken (Below 50 DMA)"
         }
     ]
