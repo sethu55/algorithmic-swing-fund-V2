@@ -1,18 +1,10 @@
 {
     "starting_balance": 100000.0,
-    "cash": 13143.245450000013,
-    "realized_pnl": -3399.756549999991,
+    "cash": 3638.8704500000094,
+    "realized_pnl": -5855.574549999992,
     "trades_won": 1,
-    "trades_lost": 4,
+    "trades_lost": 5,
     "active_positions": {
-        "Apar Ind (Ancillary)": {
-            "entry_date": "2026-06-18 16:17",
-            "entry_price": 15812.0,
-            "highest": 16690.0,
-            "stop": 13440.199999999999,
-            "shares": 1,
-            "capital_deployed": 15835.718
-        },
         "Godrej Ind (Main)": {
             "entry_date": "2026-07-03 06:50",
             "entry_price": 1210.0,
@@ -36,6 +28,14 @@
             "stop": 353.175,
             "shares": 60,
             "capital_deployed": 24967.395
+        },
+        "HAL (Ancillary)": {
+            "entry_date": "2026-07-23 09:07",
+            "entry_price": 4570.0,
+            "highest": 4570.0,
+            "stop": 3884.5,
+            "shares": 5,
+            "capital_deployed": 22884.275
         }
     },
     "closed_trades": [
@@ -88,6 +88,16 @@
             "shares_sold": 12,
             "pnl": 1546.7298000000046,
             "reason": "Structural Trend Broken (Below 50 DMA)"
+        },
+        {
+            "comp": "Apar Ind (Ancillary)",
+            "entry_date": "2026-06-18 16:17",
+            "exit_date": "2026-07-23 09:07",
+            "entry_price": 15812.0,
+            "exit_price": 13400.0,
+            "shares_sold": 1,
+            "pnl": -2455.818000000001,
+            "reason": "Trailing Stop Triggered"
         }
     ]
 }
