@@ -8,7 +8,7 @@
 | Metric | Value |
 | :--- | :--- |
 | **Starting Balance** | INR 100,000.00 |
-| **Current Portfolio Value** | **INR 94,606.37** |
+| **Current Portfolio Value** | **INR 94,761.37** |
 | **Available Cash** | INR 3,638.87 |
 | **Total Realized P&L** | INR -5,855.57 (-5.86%) |
 | **Estimated STCG Tax** | INR 0.00 |
@@ -17,10 +17,10 @@
 ## Active Positions
 | Date | Company | Shares | Entry Price | Trailing Stop | Current Price | Unrealized P&L |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| 2026-07-03 06:50 | **Godrej Ind (Main)** | 20 | INR 1210.00 | INR 1134.16 | INR 1299.70 | 7.41% (INR 1,794.00) |
-| 2026-07-15 08:35 | **Solar Ind (Ancillary)** | 1 | INR 18390.00 | INR 15631.50 | INR 18024.00 | -1.99% (INR -366.00) |
-| 2026-07-20 06:35 | **BHEL (Main)** | 60 | INR 415.50 | INR 353.18 | INR 402.75 | -3.07% (INR -765.00) |
-| 2026-07-23 09:07 | **HAL (Ancillary)** | 5 | INR 4570.00 | INR 3884.50 | INR 4556.90 | -0.29% (INR -65.50) |
+| 2026-07-03 06:50 | **Godrej Ind (Main)** | 20 | INR 1210.00 | INR 1134.16 | INR 1308.30 | 8.12% (INR 1,966.00) |
+| 2026-07-15 08:35 | **Solar Ind (Ancillary)** | 1 | INR 18390.00 | INR 15631.50 | INR 17975.00 | -2.26% (INR -415.00) |
+| 2026-07-20 06:35 | **BHEL (Main)** | 60 | INR 415.50 | INR 353.18 | INR 402.70 | -3.08% (INR -768.00) |
+| 2026-07-23 09:07 | **HAL (Ancillary)** | 5 | INR 4570.00 | INR 3884.50 | INR 4563.90 | -0.13% (INR -30.50) |
 
 ## Closed Trade History
 | Entry | Exit | Company | Entry Price | Exit Price | Shares Sold | Realized P&L | Reason |
