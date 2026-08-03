@@ -1,18 +1,10 @@
 {
     "starting_balance": 100000.0,
-    "cash": 3638.8704500000094,
-    "realized_pnl": -5855.574549999992,
-    "trades_won": 1,
+    "cash": 6430.302150000014,
+    "realized_pnl": -3242.2095499999905,
+    "trades_won": 2,
     "trades_lost": 5,
     "active_positions": {
-        "Godrej Ind (Main)": {
-            "entry_date": "2026-07-03 06:50",
-            "entry_price": 1210.0,
-            "highest": 1417.7,
-            "stop": 1134.16,
-            "shares": 20,
-            "capital_deployed": 24236.3
-        },
         "Solar Ind (Ancillary)": {
             "entry_date": "2026-07-15 08:35",
             "entry_price": 18390.0,
@@ -32,10 +24,18 @@
         "HAL (Ancillary)": {
             "entry_date": "2026-07-23 09:07",
             "entry_price": 4570.0,
-            "highest": 4646.5,
+            "highest": 4663.5,
             "stop": 3884.5,
             "shares": 5,
             "capital_deployed": 22884.275
+        },
+        "L&T (Main)": {
+            "entry_date": "2026-08-03 06:47",
+            "entry_price": 4003.7,
+            "highest": 4003.7,
+            "stop": 3403.145,
+            "shares": 6,
+            "capital_deployed": 24058.233299999996
         }
     },
     "closed_trades": [
@@ -98,6 +98,16 @@
             "shares_sold": 1,
             "pnl": -2455.818000000001,
             "reason": "Trailing Stop Triggered"
+        },
+        {
+            "comp": "Godrej Ind (Main)",
+            "entry_date": "2026-07-03 06:50",
+            "exit_date": "2026-08-03 06:47",
+            "entry_price": 1210.0,
+            "exit_price": 1344.5,
+            "shares_sold": 20,
+            "pnl": 2613.3650000000016,
+            "reason": "Structural Trend Broken (Below 50 DMA)"
         }
     ]
 }
