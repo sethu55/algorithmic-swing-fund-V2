@@ -8,23 +8,24 @@
 | Metric | Value |
 | :--- | :--- |
 | **Starting Balance** | INR 100,000.00 |
-| **Current Portfolio Value** | **INR 96,962.30** |
-| **Available Cash** | INR 6,430.30 |
-| **Total Realized P&L** | INR -3,242.21 (-3.24%) |
+| **Current Portfolio Value** | **INR 97,229.07** |
+| **Available Cash** | INR 15,365.67 |
+| **Total Realized P&L** | INR -3,538.67 (-3.54%) |
 | **Estimated STCG Tax** | INR 0.00 |
-| **Win Rate** | 28.6% (7 Trades) |
+| **Win Rate** | 25.0% (8 Trades) |
 
 ## Active Positions
 | Date | Company | Shares | Entry Price | Trailing Stop | Current Price | Unrealized P&L |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| 2026-07-15 08:35 | **Solar Ind (Ancillary)** | 1 | INR 18390.00 | INR 15631.50 | INR 18700.00 | 1.69% (INR 310.00) |
-| 2026-07-20 06:35 | **BHEL (Main)** | 60 | INR 415.50 | INR 353.18 | INR 411.95 | -0.85% (INR -213.00) |
-| 2026-07-23 09:07 | **HAL (Ancillary)** | 5 | INR 4570.00 | INR 3884.50 | INR 4635.00 | 1.42% (INR 325.00) |
-| 2026-08-03 06:47 | **L&T (Main)** | 6 | INR 4003.70 | INR 3403.14 | INR 3990.00 | -0.34% (INR -82.20) |
+| 2026-07-15 08:35 | **Solar Ind (Ancillary)** | 1 | INR 18390.00 | INR 15631.50 | INR 18710.00 | 1.74% (INR 320.00) |
+| 2026-07-23 09:07 | **HAL (Ancillary)** | 5 | INR 4570.00 | INR 3884.50 | INR 4620.00 | 1.09% (INR 250.00) |
+| 2026-08-03 06:47 | **L&T (Main)** | 6 | INR 4003.70 | INR 3403.14 | INR 4056.90 | 1.33% (INR 319.20) |
+| 2026-08-05 06:11 | **Apar Ind (Ancillary)** | 1 | INR 15712.00 | INR 13355.20 | INR 15712.00 | 0.00% (INR 0.00) |
 
 ## Closed Trade History
 | Entry | Exit | Company | Entry Price | Exit Price | Shares Sold | Realized P&L | Reason |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| 2026-07-20 06:35 | 2026-08-05 06:11 | **BHEL (Main)** | INR 415.50 | INR 411.80 | 60 | INR -296.46 | Structural Trend Broken (Below 50 DMA) |
 | 2026-07-03 06:50 | 2026-08-03 06:47 | **Godrej Ind (Main)** | INR 1210.00 | INR 1344.50 | 20 | INR 2,613.37 | Structural Trend Broken (Below 50 DMA) |
 | 2026-06-18 16:17 | 2026-07-23 09:07 | **Apar Ind (Ancillary)** | INR 15812.00 | INR 13400.00 | 1 | INR -2,455.82 | Trailing Stop Triggered |
 | 2026-06-19 08:55 | 2026-07-20 06:35 | **VA Tech Wabag (Main)** | INR 1934.50 | INR 2069.40 | 12 | INR 1,546.73 | Structural Trend Broken (Below 50 DMA) |

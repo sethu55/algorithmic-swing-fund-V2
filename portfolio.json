@@ -1,9 +1,9 @@
 {
     "starting_balance": 100000.0,
-    "cash": 6430.302150000014,
-    "realized_pnl": -3242.2095499999905,
+    "cash": 15365.672150000013,
+    "realized_pnl": -3538.6665499999926,
     "trades_won": 2,
-    "trades_lost": 5,
+    "trades_lost": 6,
     "active_positions": {
         "Solar Ind (Ancillary)": {
             "entry_date": "2026-07-15 08:35",
@@ -12,14 +12,6 @@
             "stop": 15631.5,
             "shares": 1,
             "capital_deployed": 18417.585
-        },
-        "BHEL (Main)": {
-            "entry_date": "2026-07-20 06:35",
-            "entry_price": 415.5,
-            "highest": 417.9,
-            "stop": 353.175,
-            "shares": 60,
-            "capital_deployed": 24967.395
         },
         "HAL (Ancillary)": {
             "entry_date": "2026-07-23 09:07",
@@ -32,10 +24,18 @@
         "L&T (Main)": {
             "entry_date": "2026-08-03 06:47",
             "entry_price": 4003.7,
-            "highest": 4035.0,
+            "highest": 4056.9,
             "stop": 3403.145,
             "shares": 6,
             "capital_deployed": 24058.233299999996
+        },
+        "Apar Ind (Ancillary)": {
+            "entry_date": "2026-08-05 06:11",
+            "entry_price": 15712.0,
+            "highest": 15712.0,
+            "stop": 13355.199999999999,
+            "shares": 1,
+            "capital_deployed": 15735.568
         }
     },
     "closed_trades": [
@@ -107,6 +107,16 @@
             "exit_price": 1344.5,
             "shares_sold": 20,
             "pnl": 2613.3650000000016,
+            "reason": "Structural Trend Broken (Below 50 DMA)"
+        },
+        {
+            "comp": "BHEL (Main)",
+            "entry_date": "2026-07-20 06:35",
+            "exit_date": "2026-08-05 06:11",
+            "entry_price": 415.5,
+            "exit_price": 411.8,
+            "shares_sold": 60,
+            "pnl": -296.45700000000215,
             "reason": "Structural Trend Broken (Below 50 DMA)"
         }
     ]
