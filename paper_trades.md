@@ -8,23 +8,24 @@
 | Metric | Value |
 | :--- | :--- |
 | **Starting Balance** | INR 100,000.00 |
-| **Current Portfolio Value** | **INR 99,076.17** |
-| **Available Cash** | INR 15,365.67 |
-| **Total Realized P&L** | INR -3,538.67 (-3.54%) |
+| **Current Portfolio Value** | **INR 98,893.90** |
+| **Available Cash** | INR 9,247.40 |
+| **Total Realized P&L** | INR -3,488.00 (-3.49%) |
 | **Estimated STCG Tax** | INR 0.00 |
-| **Win Rate** | 25.0% (8 Trades) |
+| **Win Rate** | 33.3% (9 Trades) |
 
 ## Active Positions
 | Date | Company | Shares | Entry Price | Trailing Stop | Current Price | Unrealized P&L |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| 2026-07-15 08:35 | **Solar Ind (Ancillary)** | 1 | INR 18390.00 | INR 15631.50 | INR 18581.00 | 1.04% (INR 191.00) |
-| 2026-07-23 09:07 | **HAL (Ancillary)** | 5 | INR 4570.00 | INR 3955.20 | INR 4934.30 | 7.97% (INR 1,821.50) |
-| 2026-08-03 06:47 | **L&T (Main)** | 6 | INR 4003.70 | INR 3403.14 | INR 4060.00 | 1.41% (INR 337.80) |
-| 2026-08-05 06:11 | **Apar Ind (Ancillary)** | 1 | INR 15712.00 | INR 13355.20 | INR 16098.00 | 2.46% (INR 386.00) |
+| 2026-07-23 09:07 | **HAL (Ancillary)** | 5 | INR 4570.00 | INR 3955.20 | INR 4920.00 | 7.66% (INR 1,750.00) |
+| 2026-08-03 06:47 | **L&T (Main)** | 6 | INR 4003.70 | INR 3403.14 | INR 4061.80 | 1.45% (INR 348.60) |
+| 2026-08-05 06:11 | **Apar Ind (Ancillary)** | 1 | INR 15712.00 | INR 13355.20 | INR 16126.00 | 2.63% (INR 414.00) |
+| 2026-08-06 11:54 | **Graphite India (Ancillary)** | 34 | INR 722.05 | INR 613.74 | INR 722.05 | 0.00% (INR 0.00) |
 
 ## Closed Trade History
 | Entry | Exit | Company | Entry Price | Exit Price | Shares Sold | Realized P&L | Reason |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| 2026-07-15 08:35 | 2026-08-06 11:54 | **Solar Ind (Ancillary)** | INR 18390.00 | INR 18496.00 | 1 | INR 50.67 | Structural Trend Broken (Below 50 DMA) |
 | 2026-07-20 06:35 | 2026-08-05 06:11 | **BHEL (Main)** | INR 415.50 | INR 411.80 | 60 | INR -296.46 | Structural Trend Broken (Below 50 DMA) |
 | 2026-07-03 06:50 | 2026-08-03 06:47 | **Godrej Ind (Main)** | INR 1210.00 | INR 1344.50 | 20 | INR 2,613.37 | Structural Trend Broken (Below 50 DMA) |
 | 2026-06-18 16:17 | 2026-07-23 09:07 | **Apar Ind (Ancillary)** | INR 15812.00 | INR 13400.00 | 1 | INR -2,455.82 | Trailing Stop Triggered |

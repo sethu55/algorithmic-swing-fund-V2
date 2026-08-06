@@ -1,18 +1,10 @@
 {
     "starting_balance": 100000.0,
-    "cash": 15365.672150000013,
-    "realized_pnl": -3538.6665499999926,
-    "trades_won": 2,
+    "cash": 9247.403600000016,
+    "realized_pnl": -3487.9955499999905,
+    "trades_won": 3,
     "trades_lost": 6,
     "active_positions": {
-        "Solar Ind (Ancillary)": {
-            "entry_date": "2026-07-15 08:35",
-            "entry_price": 18390.0,
-            "highest": 19045.0,
-            "stop": 15631.5,
-            "shares": 1,
-            "capital_deployed": 18417.585
-        },
         "HAL (Ancillary)": {
             "entry_date": "2026-07-23 09:07",
             "entry_price": 4570.0,
@@ -36,6 +28,14 @@
             "stop": 13355.199999999999,
             "shares": 1,
             "capital_deployed": 15735.568
+        },
+        "Graphite India (Ancillary)": {
+            "entry_date": "2026-08-06 11:54",
+            "entry_price": 722.05,
+            "highest": 722.05,
+            "stop": 613.7425,
+            "shares": 34,
+            "capital_deployed": 24586.52455
         }
     },
     "closed_trades": [
@@ -117,6 +117,16 @@
             "exit_price": 411.8,
             "shares_sold": 60,
             "pnl": -296.45700000000215,
+            "reason": "Structural Trend Broken (Below 50 DMA)"
+        },
+        {
+            "comp": "Solar Ind (Ancillary)",
+            "entry_date": "2026-07-15 08:35",
+            "exit_date": "2026-08-06 11:54",
+            "entry_price": 18390.0,
+            "exit_price": 18496.0,
+            "shares_sold": 1,
+            "pnl": 50.671000000002095,
             "reason": "Structural Trend Broken (Below 50 DMA)"
         }
     ]
