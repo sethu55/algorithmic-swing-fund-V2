@@ -16,15 +16,15 @@
         "HAL (Ancillary)": {
             "entry_date": "2026-07-23 09:07",
             "entry_price": 4570.0,
-            "highest": 4690.0,
-            "stop": 3884.5,
+            "highest": 4894.5,
+            "stop": 3915.6000000000004,
             "shares": 5,
             "capital_deployed": 22884.275
         },
         "L&T (Main)": {
             "entry_date": "2026-08-03 06:47",
             "entry_price": 4003.7,
-            "highest": 4057.0,
+            "highest": 4065.8,
             "stop": 3403.145,
             "shares": 6,
             "capital_deployed": 24058.233299999996
@@ -32,7 +32,7 @@
         "Apar Ind (Ancillary)": {
             "entry_date": "2026-08-05 06:11",
             "entry_price": 15712.0,
-            "highest": 15712.0,
+            "highest": 16173.0,
             "stop": 13355.199999999999,
             "shares": 1,
             "capital_deployed": 15735.568
