@@ -8,8 +8,8 @@
         "HAL (Ancillary)": {
             "entry_date": "2026-07-23 09:07",
             "entry_price": 4570.0,
-            "highest": 4944.0,
-            "stop": 3955.2000000000003,
+            "highest": 4944.8,
+            "stop": 3955.84,
             "shares": 5,
             "capital_deployed": 22884.275
         },
