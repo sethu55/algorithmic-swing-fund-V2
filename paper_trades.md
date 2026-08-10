@@ -8,7 +8,7 @@
 | Metric | Value |
 | :--- | :--- |
 | **Starting Balance** | INR 100,000.00 |
-| **Current Portfolio Value** | **INR 99,105.40** |
+| **Current Portfolio Value** | **INR 99,330.40** |
 | **Available Cash** | INR 9,247.40 |
 | **Total Realized P&L** | INR -3,488.00 (-3.49%) |
 | **Estimated STCG Tax** | INR 0.00 |
@@ -17,10 +17,10 @@
 ## Active Positions
 | Date | Company | Shares | Entry Price | Trailing Stop | Current Price | Unrealized P&L |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| 2026-07-23 09:07 | **HAL (Ancillary)** | 5 | INR 4570.00 | INR 3955.84 | INR 4944.80 | 8.20% (INR 1,874.00) |
-| 2026-08-03 06:47 | **L&T (Main)** | 6 | INR 4003.70 | INR 3403.14 | INR 4065.70 | 1.55% (INR 372.00) |
-| 2026-08-05 06:11 | **Apar Ind (Ancillary)** | 1 | INR 15712.00 | INR 13565.60 | INR 16491.00 | 4.96% (INR 779.00) |
-| 2026-08-06 11:54 | **Graphite India (Ancillary)** | 34 | INR 722.05 | INR 613.74 | INR 713.20 | -1.23% (INR -300.90) |
+| 2026-07-23 09:07 | **HAL (Ancillary)** | 5 | INR 4570.00 | INR 3955.84 | INR 4939.00 | 8.07% (INR 1,845.00) |
+| 2026-08-03 06:47 | **L&T (Main)** | 6 | INR 4003.70 | INR 3403.14 | INR 4062.00 | 1.46% (INR 349.80) |
+| 2026-08-05 06:11 | **Apar Ind (Ancillary)** | 1 | INR 15712.00 | INR 13565.60 | INR 16519.00 | 5.14% (INR 807.00) |
+| 2026-08-06 11:54 | **Graphite India (Ancillary)** | 34 | INR 722.05 | INR 613.74 | INR 720.50 | -0.21% (INR -52.70) |
 
 ## Closed Trade History
 | Entry | Exit | Company | Entry Price | Exit Price | Shares Sold | Realized P&L | Reason |
