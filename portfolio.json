@@ -24,15 +24,15 @@
         "Apar Ind (Ancillary)": {
             "entry_date": "2026-08-05 06:11",
             "entry_price": 15712.0,
-            "highest": 16957.0,
-            "stop": 13565.6,
+            "highest": 17350.0,
+            "stop": 13880.0,
             "shares": 1,
             "capital_deployed": 15735.568
         },
         "Graphite India (Ancillary)": {
             "entry_date": "2026-08-06 11:54",
             "entry_price": 722.05,
-            "highest": 738.0,
+            "highest": 739.95,
             "stop": 613.7425,
             "shares": 34,
             "capital_deployed": 24586.52455
