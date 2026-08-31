@@ -1,26 +1,10 @@
 {
     "starting_balance": 100000.0,
-    "cash": 9247.403600000016,
-    "realized_pnl": -3487.9955499999905,
-    "trades_won": 3,
+    "cash": 9985.39365000002,
+    "realized_pnl": -2225.5199499999853,
+    "trades_won": 5,
     "trades_lost": 6,
     "active_positions": {
-        "HAL (Ancillary)": {
-            "entry_date": "2026-07-23 09:07",
-            "entry_price": 4570.0,
-            "highest": 5113.5,
-            "stop": 4090.8,
-            "shares": 5,
-            "capital_deployed": 22884.275
-        },
-        "L&T (Main)": {
-            "entry_date": "2026-08-03 06:47",
-            "entry_price": 4003.7,
-            "highest": 4119.0,
-            "stop": 3403.145,
-            "shares": 6,
-            "capital_deployed": 24058.233299999996
-        },
         "Apar Ind (Ancillary)": {
             "entry_date": "2026-08-05 06:11",
             "entry_price": 15712.0,
@@ -36,6 +20,22 @@
             "stop": 613.7425,
             "shares": 34,
             "capital_deployed": 24586.52455
+        },
+        "BHEL (Main)": {
+            "entry_date": "2026-08-31 10:05",
+            "entry_price": 442.65,
+            "highest": 442.65,
+            "stop": 376.2525,
+            "shares": 56,
+            "capital_deployed": 24825.582599999998
+        },
+        "Data Patterns (Main)": {
+            "entry_date": "2026-08-31 10:05",
+            "entry_price": 4521.5,
+            "highest": 4521.5,
+            "stop": 3843.275,
+            "shares": 5,
+            "capital_deployed": 22641.41125
         }
     },
     "closed_trades": [
@@ -127,6 +127,26 @@
             "exit_price": 18496.0,
             "shares_sold": 1,
             "pnl": 50.671000000002095,
+            "reason": "Structural Trend Broken (Below 50 DMA)"
+        },
+        {
+            "comp": "HAL (Ancillary)",
+            "entry_date": "2026-07-23 09:07",
+            "exit_date": "2026-08-31 10:05",
+            "entry_price": 4570.0,
+            "exit_price": 4801.6,
+            "shares_sold": 5,
+            "pnl": 1087.7129999999997,
+            "reason": "Structural Trend Broken (Below 50 DMA)"
+        },
+        {
+            "comp": "L&T (Main)",
+            "entry_date": "2026-08-03 06:47",
+            "exit_date": "2026-08-31 10:05",
+            "entry_price": 4003.7,
+            "exit_price": 4044.9,
+            "shares_sold": 6,
+            "pnl": 174.76260000000548,
             "reason": "Structural Trend Broken (Below 50 DMA)"
         }
     ]
