@@ -8,7 +8,7 @@
 | Metric | Value |
 | :--- | :--- |
 | **Starting Balance** | INR 100,000.00 |
-| **Current Portfolio Value** | **INR 98,782.96** |
+| **Current Portfolio Value** | **INR 101,229.66** |
 | **Available Cash** | INR 14,846.46 |
 | **Total Realized P&L** | INR -1,941.01 (-1.94%) |
 | **Estimated STCG Tax** | INR 0.00 |
@@ -17,10 +17,10 @@
 ## Active Positions
 | Date | Company | Shares | Entry Price | Trailing Stop | Current Price | Unrealized P&L |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| 2026-08-05 06:11 | **Apar Ind (Ancillary)** | 1 | INR 15712.00 | INR 14400.00 | INR 16813.00 | 7.01% (INR 1,101.00) |
-| 2026-08-31 10:05 | **BHEL (Main)** | 56 | INR 442.65 | INR 376.25 | INR 427.50 | -3.42% (INR -848.40) |
-| 2026-08-31 10:05 | **Data Patterns (Main)** | 5 | INR 4521.50 | INR 3843.28 | INR 4516.70 | -0.11% (INR -24.00) |
-| 2026-09-01 08:54 | **Solar Ind (Ancillary)** | 1 | INR 19980.00 | INR 16983.00 | INR 20600.00 | 3.10% (INR 620.00) |
+| 2026-08-05 06:11 | **Apar Ind (Ancillary)** | 1 | INR 15712.00 | INR 14400.00 | INR 17707.00 | 12.70% (INR 1,995.00) |
+| 2026-08-31 10:05 | **BHEL (Main)** | 56 | INR 442.65 | INR 376.25 | INR 430.70 | -2.70% (INR -669.20) |
+| 2026-08-31 10:05 | **Data Patterns (Main)** | 5 | INR 4521.50 | INR 3843.28 | INR 4608.40 | 1.92% (INR 434.50) |
+| 2026-09-01 08:54 | **Solar Ind (Ancillary)** | 1 | INR 19980.00 | INR 17212.00 | INR 21515.00 | 7.68% (INR 1,535.00) |
 
 ## Closed Trade History
 | Entry | Exit | Company | Entry Price | Exit Price | Shares Sold | Realized P&L | Reason |

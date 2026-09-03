@@ -24,7 +24,7 @@
         "Data Patterns (Main)": {
             "entry_date": "2026-08-31 10:05",
             "entry_price": 4521.5,
-            "highest": 4521.5,
+            "highest": 4608.4,
             "stop": 3843.275,
             "shares": 5,
             "capital_deployed": 22641.41125
@@ -32,8 +32,8 @@
         "Solar Ind (Ancillary)": {
             "entry_date": "2026-09-01 08:54",
             "entry_price": 19980.0,
-            "highest": 20600.0,
-            "stop": 16983.0,
+            "highest": 21515.0,
+            "stop": 17212.0,
             "shares": 1,
             "capital_deployed": 20009.97
         }
