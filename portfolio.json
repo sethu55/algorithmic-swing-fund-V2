@@ -1,8 +1,8 @@
 {
     "starting_balance": 100000.0,
-    "cash": 14846.46105000002,
-    "realized_pnl": -1941.0070999999825,
-    "trades_won": 6,
+    "cash": 13816.631750000022,
+    "realized_pnl": -1553.513599999982,
+    "trades_won": 7,
     "trades_lost": 6,
     "active_positions": {
         "Apar Ind (Ancillary)": {
@@ -21,14 +21,6 @@
             "shares": 56,
             "capital_deployed": 24825.582599999998
         },
-        "Data Patterns (Main)": {
-            "entry_date": "2026-08-31 10:05",
-            "entry_price": 4521.5,
-            "highest": 4608.8,
-            "stop": 3843.275,
-            "shares": 5,
-            "capital_deployed": 22641.41125
-        },
         "Solar Ind (Ancillary)": {
             "entry_date": "2026-09-01 08:54",
             "entry_price": 19980.0,
@@ -36,6 +28,14 @@
             "stop": 17284.0,
             "shares": 1,
             "capital_deployed": 20009.97
+        },
+        "Laurus Labs (Ancillary)": {
+            "entry_date": "2026-09-04 08:13",
+            "entry_price": 1847.9,
+            "highest": 1847.9,
+            "stop": 1570.7150000000001,
+            "shares": 13,
+            "capital_deployed": 24058.73405
         }
     },
     "closed_trades": [
@@ -157,6 +157,16 @@
             "exit_price": 732.6,
             "shares_sold": 34,
             "pnl": 284.5128500000028,
+            "reason": "Structural Trend Broken (Below 50 DMA)"
+        },
+        {
+            "comp": "Data Patterns (Main)",
+            "entry_date": "2026-08-31 10:05",
+            "exit_date": "2026-09-04 08:13",
+            "entry_price": 4521.5,
+            "exit_price": 4612.7,
+            "shares_sold": 5,
+            "pnl": 387.4935000000005,
             "reason": "Structural Trend Broken (Below 50 DMA)"
         }
     ]
