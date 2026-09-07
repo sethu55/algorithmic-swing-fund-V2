@@ -24,8 +24,8 @@
         "Solar Ind (Ancillary)": {
             "entry_date": "2026-09-01 08:54",
             "entry_price": 19980.0,
-            "highest": 21790.0,
-            "stop": 17432.0,
+            "highest": 21840.0,
+            "stop": 17472.0,
             "shares": 1,
             "capital_deployed": 20009.97
         },
