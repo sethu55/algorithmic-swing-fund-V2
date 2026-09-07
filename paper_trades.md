@@ -8,7 +8,7 @@
 | Metric | Value |
 | :--- | :--- |
 | **Starting Balance** | INR 100,000.00 |
-| **Current Portfolio Value** | **INR 101,159.73** |
+| **Current Portfolio Value** | **INR 101,492.93** |
 | **Available Cash** | INR 13,816.63 |
 | **Total Realized P&L** | INR -1,553.51 (-1.55%) |
 | **Estimated STCG Tax** | INR 0.00 |
@@ -17,10 +17,10 @@
 ## Active Positions
 | Date | Company | Shares | Entry Price | Trailing Stop | Current Price | Unrealized P&L |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| 2026-08-05 06:11 | **Apar Ind (Ancillary)** | 1 | INR 15712.00 | INR 14400.00 | INR 17490.00 | 11.32% (INR 1,778.00) |
-| 2026-08-31 10:05 | **BHEL (Main)** | 56 | INR 442.65 | INR 376.25 | INR 423.20 | -4.39% (INR -1,089.20) |
-| 2026-09-01 08:54 | **Solar Ind (Ancillary)** | 1 | INR 19980.00 | INR 17472.00 | INR 21840.00 | 9.31% (INR 1,860.00) |
-| 2026-09-04 08:13 | **Laurus Labs (Ancillary)** | 13 | INR 1847.90 | INR 1570.72 | INR 1870.30 | 1.21% (INR 291.20) |
+| 2026-08-05 06:11 | **Apar Ind (Ancillary)** | 1 | INR 15712.00 | INR 14400.00 | INR 17728.00 | 12.83% (INR 2,016.00) |
+| 2026-08-31 10:05 | **BHEL (Main)** | 56 | INR 442.65 | INR 376.25 | INR 421.45 | -4.79% (INR -1,187.20) |
+| 2026-09-01 08:54 | **Solar Ind (Ancillary)** | 1 | INR 19980.00 | INR 17560.00 | INR 21950.00 | 9.86% (INR 1,970.00) |
+| 2026-09-04 08:13 | **Laurus Labs (Ancillary)** | 13 | INR 1847.90 | INR 1570.72 | INR 1876.70 | 1.56% (INR 374.40) |
 
 ## Closed Trade History
 | Entry | Exit | Company | Entry Price | Exit Price | Shares Sold | Realized P&L | Reason |

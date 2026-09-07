@@ -24,15 +24,15 @@
         "Solar Ind (Ancillary)": {
             "entry_date": "2026-09-01 08:54",
             "entry_price": 19980.0,
-            "highest": 21840.0,
-            "stop": 17472.0,
+            "highest": 21950.0,
+            "stop": 17560.0,
             "shares": 1,
             "capital_deployed": 20009.97
         },
         "Laurus Labs (Ancillary)": {
             "entry_date": "2026-09-04 08:13",
             "entry_price": 1847.9,
-            "highest": 1871.1,
+            "highest": 1876.7,
             "stop": 1570.7150000000001,
             "shares": 13,
             "capital_deployed": 24058.73405
