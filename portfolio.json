@@ -1,18 +1,10 @@
 {
     "starting_balance": 100000.0,
-    "cash": 13816.631750000022,
-    "realized_pnl": -1553.513599999982,
-    "trades_won": 7,
+    "cash": 6402.022000000023,
+    "realized_pnl": -287.6220999999805,
+    "trades_won": 8,
     "trades_lost": 6,
     "active_positions": {
-        "Apar Ind (Ancillary)": {
-            "entry_date": "2026-08-05 06:11",
-            "entry_price": 15712.0,
-            "highest": 18000.0,
-            "stop": 14400.0,
-            "shares": 1,
-            "capital_deployed": 15735.568
-        },
         "BHEL (Main)": {
             "entry_date": "2026-08-31 10:05",
             "entry_price": 442.65,
@@ -36,6 +28,14 @@
             "stop": 1578.7200000000003,
             "shares": 13,
             "capital_deployed": 24058.73405
+        },
+        "Graphite India (Ancillary)": {
+            "entry_date": "2026-09-16 08:50",
+            "entry_price": 812.65,
+            "highest": 812.65,
+            "stop": 690.7524999999999,
+            "shares": 30,
+            "capital_deployed": 24416.06925
         }
     },
     "closed_trades": [
@@ -167,6 +167,16 @@
             "exit_price": 4612.7,
             "shares_sold": 5,
             "pnl": 387.4935000000005,
+            "reason": "Structural Trend Broken (Below 50 DMA)"
+        },
+        {
+            "comp": "Apar Ind (Ancillary)",
+            "entry_date": "2026-08-05 06:11",
+            "exit_date": "2026-09-16 08:50",
+            "entry_price": 15712.0,
+            "exit_price": 17027.0,
+            "shares_sold": 1,
+            "pnl": 1265.8915000000015,
             "reason": "Structural Trend Broken (Below 50 DMA)"
         }
     ]
