@@ -8,23 +8,24 @@
 | Metric | Value |
 | :--- | :--- |
 | **Starting Balance** | INR 100,000.00 |
-| **Current Portfolio Value** | **INR 97,218.62** |
-| **Available Cash** | INR 6,402.02 |
-| **Total Realized P&L** | INR -287.62 (-0.29%) |
+| **Current Portfolio Value** | **INR 99,079.91** |
+| **Available Cash** | INR 12,706.21 |
+| **Total Realized P&L** | INR -1,094.49 (-1.09%) |
 | **Estimated STCG Tax** | INR 0.00 |
-| **Win Rate** | 57.1% (14 Trades) |
+| **Win Rate** | 53.3% (15 Trades) |
 
 ## Active Positions
 | Date | Company | Shares | Entry Price | Trailing Stop | Current Price | Unrealized P&L |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| 2026-08-31 10:05 | **BHEL (Main)** | 56 | INR 442.65 | INR 376.25 | INR 410.60 | -7.24% (INR -1,794.80) |
-| 2026-09-01 08:54 | **Solar Ind (Ancillary)** | 1 | INR 19980.00 | INR 17964.00 | INR 18900.00 | -5.41% (INR -1,080.00) |
-| 2026-09-04 08:13 | **Laurus Labs (Ancillary)** | 13 | INR 1847.90 | INR 1578.72 | INR 1905.50 | 3.12% (INR 748.80) |
-| 2026-09-16 08:50 | **Graphite India (Ancillary)** | 30 | INR 812.65 | INR 690.75 | INR 805.05 | -0.94% (INR -228.00) |
+| 2026-09-01 08:54 | **Solar Ind (Ancillary)** | 1 | INR 19980.00 | INR 17964.00 | INR 18840.00 | -5.71% (INR -1,140.00) |
+| 2026-09-04 08:13 | **Laurus Labs (Ancillary)** | 13 | INR 1847.90 | INR 1578.72 | INR 1953.40 | 5.71% (INR 1,371.50) |
+| 2026-09-16 08:50 | **Graphite India (Ancillary)** | 30 | INR 812.65 | INR 690.75 | INR 815.05 | 0.30% (INR 72.00) |
+| 2026-09-17 08:54 | **Apar Ind (Ancillary)** | 1 | INR 17688.00 | INR 15034.80 | INR 17688.00 | 0.00% (INR 0.00) |
 
 ## Closed Trade History
 | Entry | Exit | Company | Entry Price | Exit Price | Shares Sold | Realized P&L | Reason |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| 2026-08-31 10:05 | 2026-09-17 08:54 | **BHEL (Main)** | INR 442.65 | INR 429.55 | 56 | INR -806.86 | Structural Trend Broken (Below 50 DMA) |
 | 2026-08-05 06:11 | 2026-09-16 08:50 | **Apar Ind (Ancillary)** | INR 15712.00 | INR 17027.00 | 1 | INR 1,265.89 | Structural Trend Broken (Below 50 DMA) |
 | 2026-08-31 10:05 | 2026-09-04 08:13 | **Data Patterns (Main)** | INR 4521.50 | INR 4612.70 | 5 | INR 387.49 | Structural Trend Broken (Below 50 DMA) |
 | 2026-08-06 11:54 | 2026-09-01 08:54 | **Graphite India (Ancillary)** | INR 722.05 | INR 732.60 | 34 | INR 284.51 | Structural Trend Broken (Below 50 DMA) |
