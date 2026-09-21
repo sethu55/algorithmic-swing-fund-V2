@@ -16,8 +16,8 @@
         "Laurus Labs (Ancillary)": {
             "entry_date": "2026-09-04 08:13",
             "entry_price": 1847.9,
-            "highest": 1973.4,
-            "stop": 1578.7200000000003,
+            "highest": 2016.4,
+            "stop": 1613.1200000000001,
             "shares": 13,
             "capital_deployed": 24058.73405
         },
@@ -32,8 +32,8 @@
         "Apar Ind (Ancillary)": {
             "entry_date": "2026-09-17 08:54",
             "entry_price": 17688.0,
-            "highest": 18858.0,
-            "stop": 15086.400000000001,
+            "highest": 18910.0,
+            "stop": 15128.0,
             "shares": 1,
             "capital_deployed": 17714.532
         }
