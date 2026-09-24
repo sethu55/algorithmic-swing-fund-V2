@@ -8,7 +8,7 @@
 | Metric | Value |
 | :--- | :--- |
 | **Starting Balance** | INR 100,000.00 |
-| **Current Portfolio Value** | **INR 101,384.21** |
+| **Current Portfolio Value** | **INR 100,941.41** |
 | **Available Cash** | INR 12,706.21 |
 | **Total Realized P&L** | INR -1,094.49 (-1.09%) |
 | **Estimated STCG Tax** | INR 0.00 |
@@ -17,10 +17,10 @@
 ## Active Positions
 | Date | Company | Shares | Entry Price | Trailing Stop | Current Price | Unrealized P&L |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| 2026-09-01 08:54 | **Solar Ind (Ancillary)** | 1 | INR 19980.00 | INR 17964.00 | INR 19730.00 | -1.25% (INR -250.00) |
-| 2026-09-04 08:13 | **Laurus Labs (Ancillary)** | 13 | INR 1847.90 | INR 1627.20 | INR 2034.00 | 10.07% (INR 2,419.30) |
-| 2026-09-16 08:50 | **Graphite India (Ancillary)** | 30 | INR 812.65 | INR 690.75 | INR 821.00 | 1.03% (INR 250.50) |
-| 2026-09-17 08:54 | **Apar Ind (Ancillary)** | 1 | INR 17688.00 | INR 15156.00 | INR 17876.00 | 1.06% (INR 188.00) |
+| 2026-09-01 08:54 | **Solar Ind (Ancillary)** | 1 | INR 19980.00 | INR 17964.00 | INR 19675.00 | -1.53% (INR -305.00) |
+| 2026-09-04 08:13 | **Laurus Labs (Ancillary)** | 13 | INR 1847.90 | INR 1629.52 | INR 2036.90 | 10.23% (INR 2,457.00) |
+| 2026-09-16 08:50 | **Graphite India (Ancillary)** | 30 | INR 812.65 | INR 690.75 | INR 808.85 | -0.47% (INR -114.00) |
+| 2026-09-17 08:54 | **Apar Ind (Ancillary)** | 1 | INR 17688.00 | INR 15156.00 | INR 17815.00 | 0.72% (INR 127.00) |
 
 ## Closed Trade History
 | Entry | Exit | Company | Entry Price | Exit Price | Shares Sold | Realized P&L | Reason |
