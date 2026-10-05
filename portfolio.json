@@ -1,8 +1,8 @@
 {
     "starting_balance": 100000.0,
-    "cash": 12706.207800000022,
-    "realized_pnl": -1094.4868999999799,
-    "trades_won": 8,
+    "cash": 13181.35350000002,
+    "realized_pnl": -1055.2941499999815,
+    "trades_won": 9,
     "trades_lost": 7,
     "active_positions": {
         "Solar Ind (Ancillary)": {
@@ -21,14 +21,6 @@
             "shares": 13,
             "capital_deployed": 24058.73405
         },
-        "Graphite India (Ancillary)": {
-            "entry_date": "2026-09-16 08:50",
-            "entry_price": 812.65,
-            "highest": 830.95,
-            "stop": 690.7524999999999,
-            "shares": 30,
-            "capital_deployed": 24416.06925
-        },
         "Apar Ind (Ancillary)": {
             "entry_date": "2026-09-17 08:54",
             "entry_price": 17688.0,
@@ -36,6 +28,14 @@
             "stop": 15156.0,
             "shares": 1,
             "capital_deployed": 17714.532
+        },
+        "Cyient (Ancillary)": {
+            "entry_date": "2026-10-05 10:50",
+            "entry_price": 1140.2,
+            "highest": 1140.2,
+            "stop": 969.17,
+            "shares": 21,
+            "capital_deployed": 23980.1163
         }
     },
     "closed_trades": [
@@ -187,6 +187,16 @@
             "exit_price": 429.55,
             "shares_sold": 56,
             "pnl": -806.8647999999994,
+            "reason": "Structural Trend Broken (Below 50 DMA)"
+        },
+        {
+            "comp": "Graphite India (Ancillary)",
+            "entry_date": "2026-09-16 08:50",
+            "exit_date": "2026-10-05 10:50",
+            "entry_price": 812.65,
+            "exit_price": 816.4,
+            "shares_sold": 30,
+            "pnl": 39.19274999999834,
             "reason": "Structural Trend Broken (Below 50 DMA)"
         }
     ]
