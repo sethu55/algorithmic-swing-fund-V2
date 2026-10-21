@@ -1,9 +1,9 @@
 {
     "starting_balance": 100000.0,
-    "cash": 13181.35350000002,
-    "realized_pnl": -1055.2941499999815,
+    "cash": 3972.262500000019,
+    "realized_pnl": -3670.5091499999817,
     "trades_won": 9,
-    "trades_lost": 7,
+    "trades_lost": 8,
     "active_positions": {
         "Solar Ind (Ancillary)": {
             "entry_date": "2026-09-01 08:54",
@@ -21,14 +21,6 @@
             "shares": 13,
             "capital_deployed": 24058.73405
         },
-        "Apar Ind (Ancillary)": {
-            "entry_date": "2026-09-17 08:54",
-            "entry_price": 17688.0,
-            "highest": 18945.0,
-            "stop": 15156.0,
-            "shares": 1,
-            "capital_deployed": 17714.532
-        },
         "Cyient (Ancillary)": {
             "entry_date": "2026-10-05 10:50",
             "entry_price": 1140.2,
@@ -36,6 +28,14 @@
             "stop": 969.17,
             "shares": 21,
             "capital_deployed": 23980.1163
+        },
+        "HAL (Ancillary)": {
+            "entry_date": "2026-10-21 14:29",
+            "entry_price": 4854.4,
+            "highest": 4854.4,
+            "stop": 4126.24,
+            "shares": 5,
+            "capital_deployed": 24308.408
         }
     },
     "closed_trades": [
@@ -198,6 +198,16 @@
             "shares_sold": 30,
             "pnl": 39.19274999999834,
             "reason": "Structural Trend Broken (Below 50 DMA)"
+        },
+        {
+            "comp": "Apar Ind (Ancillary)",
+            "entry_date": "2026-09-17 08:54",
+            "exit_date": "2026-10-21 14:29",
+            "entry_price": 17688.0,
+            "exit_price": 15122.0,
+            "shares_sold": 1,
+            "pnl": -2615.215,
+            "reason": "Trailing Stop Triggered"
         }
     ]
 }
