@@ -8,7 +8,7 @@
 | Metric | Value |
 | :--- | :--- |
 | **Starting Balance** | INR 100,000.00 |
-| **Current Portfolio Value** | **INR 97,499.96** |
+| **Current Portfolio Value** | **INR 97,731.56** |
 | **Available Cash** | INR 3,972.26 |
 | **Total Realized P&L** | INR -3,670.51 (-3.67%) |
 | **Estimated STCG Tax** | INR 0.00 |
@@ -17,10 +17,10 @@
 ## Active Positions
 | Date | Company | Shares | Entry Price | Trailing Stop | Current Price | Unrealized P&L |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| 2026-09-01 08:54 | **Solar Ind (Ancillary)** | 1 | INR 19980.00 | INR 17964.00 | INR 18966.00 | -5.08% (INR -1,014.00) |
-| 2026-09-04 08:13 | **Laurus Labs (Ancillary)** | 13 | INR 1847.90 | INR 1659.92 | INR 2008.90 | 8.71% (INR 2,093.00) |
-| 2026-10-05 10:50 | **Cyient (Ancillary)** | 21 | INR 1140.20 | INR 969.17 | INR 1151.50 | 0.99% (INR 237.30) |
-| 2026-10-21 14:29 | **HAL (Ancillary)** | 5 | INR 4854.40 | INR 4126.24 | INR 4852.90 | -0.03% (INR -7.50) |
+| 2026-09-01 08:54 | **Solar Ind (Ancillary)** | 1 | INR 19980.00 | INR 17964.00 | INR 19008.00 | -4.86% (INR -972.00) |
+| 2026-09-04 08:13 | **Laurus Labs (Ancillary)** | 13 | INR 1847.90 | INR 1659.92 | INR 2012.20 | 8.89% (INR 2,135.90) |
+| 2026-10-05 10:50 | **Cyient (Ancillary)** | 21 | INR 1140.20 | INR 969.17 | INR 1152.70 | 1.10% (INR 262.50) |
+| 2026-10-21 14:29 | **HAL (Ancillary)** | 5 | INR 4854.40 | INR 4126.24 | INR 4877.20 | 0.47% (INR 114.00) |
 
 ## Closed Trade History
 | Entry | Exit | Company | Entry Price | Exit Price | Shares Sold | Realized P&L | Reason |
