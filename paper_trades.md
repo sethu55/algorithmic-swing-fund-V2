@@ -8,7 +8,7 @@
 | Metric | Value |
 | :--- | :--- |
 | **Starting Balance** | INR 100,000.00 |
-| **Current Portfolio Value** | **INR 97,637.21** |
+| **Current Portfolio Value** | **INR 97,728.41** |
 | **Available Cash** | INR 29,504.91 |
 | **Total Realized P&L** | INR -2,196.60 (-2.20%) |
 | **Estimated STCG Tax** | INR 0.00 |
@@ -17,9 +17,9 @@
 ## Active Positions
 | Date | Company | Shares | Entry Price | Trailing Stop | Current Price | Unrealized P&L |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| 2026-09-01 08:54 | **Solar Ind (Ancillary)** | 1 | INR 19980.00 | INR 17964.00 | INR 18392.00 | -7.95% (INR -1,588.00) |
-| 2026-10-05 10:50 | **Cyient (Ancillary)** | 21 | INR 1140.20 | INR 987.04 | INR 1233.80 | 8.21% (INR 1,965.60) |
-| 2026-10-21 14:29 | **HAL (Ancillary)** | 5 | INR 4854.40 | INR 4126.24 | INR 4766.10 | -1.82% (INR -441.50) |
+| 2026-09-01 08:54 | **Solar Ind (Ancillary)** | 1 | INR 19980.00 | INR 17964.00 | INR 18381.00 | -8.00% (INR -1,599.00) |
+| 2026-10-05 10:50 | **Cyient (Ancillary)** | 21 | INR 1140.20 | INR 990.40 | INR 1238.00 | 8.58% (INR 2,053.80) |
+| 2026-10-21 14:29 | **HAL (Ancillary)** | 5 | INR 4854.40 | INR 4126.24 | INR 4768.90 | -1.76% (INR -427.50) |
 
 ## Closed Trade History
 | Entry | Exit | Company | Entry Price | Exit Price | Shares Sold | Realized P&L | Reason |
