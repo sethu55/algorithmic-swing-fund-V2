@@ -1,8 +1,8 @@
 {
     "starting_balance": 100000.0,
-    "cash": 3972.262500000019,
-    "realized_pnl": -3670.5091499999817,
-    "trades_won": 9,
+    "cash": 29504.906000000017,
+    "realized_pnl": -2196.5996999999825,
+    "trades_won": 10,
     "trades_lost": 8,
     "active_positions": {
         "Solar Ind (Ancillary)": {
@@ -13,19 +13,11 @@
             "shares": 1,
             "capital_deployed": 20009.97
         },
-        "Laurus Labs (Ancillary)": {
-            "entry_date": "2026-09-04 08:13",
-            "entry_price": 1847.9,
-            "highest": 2074.9,
-            "stop": 1659.92,
-            "shares": 13,
-            "capital_deployed": 24058.73405
-        },
         "Cyient (Ancillary)": {
             "entry_date": "2026-10-05 10:50",
             "entry_price": 1140.2,
-            "highest": 1201.7,
-            "stop": 969.17,
+            "highest": 1233.8,
+            "stop": 987.04,
             "shares": 21,
             "capital_deployed": 23980.1163
         },
@@ -208,6 +200,16 @@
             "shares_sold": 1,
             "pnl": -2615.215,
             "reason": "Trailing Stop Triggered"
+        },
+        {
+            "comp": "Laurus Labs (Ancillary)",
+            "entry_date": "2026-09-04 08:13",
+            "exit_date": "2026-10-23 08:50",
+            "entry_price": 1847.9,
+            "exit_price": 1967.0,
+            "shares_sold": 13,
+            "pnl": 1473.9094499999992,
+            "reason": "Structural Trend Broken (Below 50 DMA)"
         }
     ]
 }
