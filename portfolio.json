@@ -16,8 +16,8 @@
         "Cyient (Ancillary)": {
             "entry_date": "2026-10-05 10:50",
             "entry_price": 1140.2,
-            "highest": 1238.0,
-            "stop": 990.4000000000001,
+            "highest": 1242.9,
+            "stop": 994.3200000000002,
             "shares": 21,
             "capital_deployed": 23980.1163
         },
@@ -32,7 +32,7 @@
         "Laurus Labs (Ancillary)": {
             "entry_date": "2026-10-26 09:21",
             "entry_price": 2053.8,
-            "highest": 2053.8,
+            "highest": 2058.9,
             "stop": 1745.73,
             "shares": 12,
             "capital_deployed": 24682.568400000004
