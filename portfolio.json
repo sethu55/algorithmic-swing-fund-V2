@@ -1,6 +1,6 @@
 {
     "starting_balance": 100000.0,
-    "cash": 29504.906000000017,
+    "cash": 4822.3376000000135,
     "realized_pnl": -2196.5996999999825,
     "trades_won": 10,
     "trades_lost": 8,
@@ -28,6 +28,14 @@
             "stop": 4126.24,
             "shares": 5,
             "capital_deployed": 24308.408
+        },
+        "Laurus Labs (Ancillary)": {
+            "entry_date": "2026-10-26 09:21",
+            "entry_price": 2053.8,
+            "highest": 2053.8,
+            "stop": 1745.73,
+            "shares": 12,
+            "capital_deployed": 24682.568400000004
         }
     },
     "closed_trades": [
