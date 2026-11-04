@@ -16,7 +16,7 @@
         "HAL (Ancillary)": {
             "entry_date": "2026-10-21 14:29",
             "entry_price": 4854.4,
-            "highest": 4958.6,
+            "highest": 5079.1,
             "stop": 4126.24,
             "shares": 5,
             "capital_deployed": 24308.408
@@ -32,7 +32,7 @@
         "GAIL (Main)": {
             "entry_date": "2026-11-03 11:19",
             "entry_price": 181.75,
-            "highest": 181.75,
+            "highest": 186.22,
             "stop": 154.48749999999998,
             "shares": 137,
             "capital_deployed": 24937.099625
