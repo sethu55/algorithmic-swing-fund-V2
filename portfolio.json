@@ -24,15 +24,15 @@
         "Laurus Labs (Ancillary)": {
             "entry_date": "2026-10-26 09:21",
             "entry_price": 2053.8,
-            "highest": 2405.5,
-            "stop": 1924.4,
+            "highest": 2454.0,
+            "stop": 1963.2,
             "shares": 12,
             "capital_deployed": 24682.568400000004
         },
         "GAIL (Main)": {
             "entry_date": "2026-11-03 11:19",
             "entry_price": 181.75,
-            "highest": 186.22,
+            "highest": 188.0,
             "stop": 154.48749999999998,
             "shares": 137,
             "capital_deployed": 24937.099625
