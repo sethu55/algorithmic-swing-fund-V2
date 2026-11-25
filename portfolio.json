@@ -1,8 +1,8 @@
 {
     "starting_balance": 100000.0,
-    "cash": 3772.5531750000155,
-    "realized_pnl": -2289.400799999983,
-    "trades_won": 10,
+    "cash": 3442.1291750000164,
+    "realized_pnl": -1954.828799999983,
+    "trades_won": 11,
     "trades_lost": 9,
     "active_positions": {
         "Solar Ind (Ancillary)": {
@@ -13,19 +13,11 @@
             "shares": 1,
             "capital_deployed": 20009.97
         },
-        "HAL (Ancillary)": {
-            "entry_date": "2026-10-21 14:29",
-            "entry_price": 4854.4,
-            "highest": 5079.1,
-            "stop": 4126.24,
-            "shares": 5,
-            "capital_deployed": 24308.408
-        },
         "Laurus Labs (Ancillary)": {
             "entry_date": "2026-10-26 09:21",
             "entry_price": 2053.8,
-            "highest": 2454.0,
-            "stop": 1963.2,
+            "highest": 2460.0,
+            "stop": 1968.0,
             "shares": 12,
             "capital_deployed": 24682.568400000004
         },
@@ -36,6 +28,14 @@
             "stop": 154.48749999999998,
             "shares": 137,
             "capital_deployed": 24937.099625
+        },
+        "L&T (Main)": {
+            "entry_date": "2026-11-25 13:29",
+            "entry_price": 4156.0,
+            "highest": 4156.0,
+            "stop": 3532.6,
+            "shares": 6,
+            "capital_deployed": 24973.404
         }
     },
     "closed_trades": [
@@ -227,6 +227,16 @@
             "exit_price": 1139.2,
             "shares_sold": 21,
             "pnl": -92.80110000000059,
+            "reason": "Structural Trend Broken (Below 50 DMA)"
+        },
+        {
+            "comp": "HAL (Ancillary)",
+            "entry_date": "2026-10-21 14:29",
+            "exit_date": "2026-11-25 13:29",
+            "entry_price": 4854.4,
+            "exit_price": 4936.0,
+            "shares_sold": 5,
+            "pnl": 334.5720000000001,
             "reason": "Structural Trend Broken (Below 50 DMA)"
         }
     ]

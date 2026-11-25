@@ -8,23 +8,24 @@
 | Metric | Value |
 | :--- | :--- |
 | **Starting Balance** | INR 100,000.00 |
-| **Current Portfolio Value** | **INR 99,726.15** |
-| **Available Cash** | INR 3,772.55 |
-| **Total Realized P&L** | INR -2,289.40 (-2.29%) |
+| **Current Portfolio Value** | **INR 101,673.63** |
+| **Available Cash** | INR 3,442.13 |
+| **Total Realized P&L** | INR -1,954.83 (-1.95%) |
 | **Estimated STCG Tax** | INR 0.00 |
-| **Win Rate** | 52.6% (19 Trades) |
+| **Win Rate** | 55.0% (20 Trades) |
 
 ## Active Positions
 | Date | Company | Shares | Entry Price | Trailing Stop | Current Price | Unrealized P&L |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| 2026-09-01 08:54 | **Solar Ind (Ancillary)** | 1 | INR 19980.00 | INR 17964.00 | INR 18178.00 | -9.02% (INR -1,802.00) |
-| 2026-10-21 14:29 | **HAL (Ancillary)** | 5 | INR 4854.40 | INR 4126.24 | INR 4780.00 | -1.53% (INR -372.00) |
-| 2026-10-26 09:21 | **Laurus Labs (Ancillary)** | 12 | INR 2053.80 | INR 1963.20 | INR 2370.70 | 15.43% (INR 3,802.80) |
-| 2026-11-03 11:19 | **GAIL (Main)** | 137 | INR 181.75 | INR 154.49 | INR 185.60 | 2.12% (INR 527.45) |
+| 2026-09-01 08:54 | **Solar Ind (Ancillary)** | 1 | INR 19980.00 | INR 17964.00 | INR 18088.00 | -9.47% (INR -1,892.00) |
+| 2026-10-26 09:21 | **Laurus Labs (Ancillary)** | 12 | INR 2053.80 | INR 1968.00 | INR 2460.00 | 19.78% (INR 4,874.40) |
+| 2026-11-03 11:19 | **GAIL (Main)** | 137 | INR 181.75 | INR 154.49 | INR 187.50 | 3.16% (INR 787.75) |
+| 2026-11-25 13:29 | **L&T (Main)** | 6 | INR 4156.00 | INR 3532.60 | INR 4156.00 | 0.00% (INR 0.00) |
 
 ## Closed Trade History
 | Entry | Exit | Company | Entry Price | Exit Price | Shares Sold | Realized P&L | Reason |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| 2026-10-21 14:29 | 2026-11-25 13:29 | **HAL (Ancillary)** | INR 4854.40 | INR 4936.00 | 5 | INR 334.57 | Structural Trend Broken (Below 50 DMA) |
 | 2026-10-05 10:50 | 2026-11-03 11:19 | **Cyient (Ancillary)** | INR 1140.20 | INR 1139.20 | 21 | INR -92.80 | Structural Trend Broken (Below 50 DMA) |
 | 2026-09-04 08:13 | 2026-10-23 08:50 | **Laurus Labs (Ancillary)** | INR 1847.90 | INR 1967.00 | 13 | INR 1,473.91 | Structural Trend Broken (Below 50 DMA) |
 | 2026-09-17 08:54 | 2026-10-21 14:29 | **Apar Ind (Ancillary)** | INR 17688.00 | INR 15122.00 | 1 | INR -2,615.22 | Trailing Stop Triggered |
@@ -39,4 +40,3 @@
 | 2026-07-20 06:35 | 2026-08-05 06:11 | **BHEL (Main)** | INR 415.50 | INR 411.80 | 60 | INR -296.46 | Structural Trend Broken (Below 50 DMA) |
 | 2026-07-03 06:50 | 2026-08-03 06:47 | **Godrej Ind (Main)** | INR 1210.00 | INR 1344.50 | 20 | INR 2,613.37 | Structural Trend Broken (Below 50 DMA) |
 | 2026-06-18 16:17 | 2026-07-23 09:07 | **Apar Ind (Ancillary)** | INR 15812.00 | INR 13400.00 | 1 | INR -2,455.82 | Trailing Stop Triggered |
-| 2026-06-19 08:55 | 2026-07-20 06:35 | **VA Tech Wabag (Main)** | INR 1934.50 | INR 2069.40 | 12 | INR 1,546.73 | Structural Trend Broken (Below 50 DMA) |
